@@ -23,6 +23,7 @@ published: false
 「タスクに取り掛かった時点で、いのうえは「エンジニアの採用」について何も知らなかったのだから、確かに今回のやり方が最善策だったと思う。一方で、リーダーの言っていることも一理ある。メンバーに共有するドキュメントなら、それはメンバーに共有するぐらい価値のあるレベルのものであるべきだ。」
 
 そっかー。じゃあ、これからどうしたらいいんだろう？
+![altテキスト](https://1.bp.blogspot.com/-I-SywmyJ2r0/Xz6H4Y5V74I/AAAAAAABaqY/fEIFxAHi3bUQVyxCNYjHWxF4UDQb2ykoQCNcBGAsYHQ/s1600/kotowaza_gorimuchu.png =400x)
 
 # 「タスク前宣言」をやりたい！
 
